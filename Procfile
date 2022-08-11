@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT resume_demo.wsgi:application 
